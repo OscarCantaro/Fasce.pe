@@ -24,7 +24,7 @@ hgroup {
 	font-family:"Myriad Pro", "Trebuchet MS", sans-serif;
 	font-size: 30px;
 	letter-spacing: 1px;
-	text-shadow:rgba(0, 0, 0, 0.50) 0 1px 1px;
+	text-shadow:rgba(0, 0, 0, 0.10) 0 1px 1px;
 }
 hgroup h1 {
 	margin: 0px;
@@ -32,7 +32,7 @@ hgroup h1 {
 }
 hgroup h4 {
 	font-family:'Century Gothic', arial, serif;
-	font-size: 22px;
+	font-size: 18px;
 	font-weight:normal;
 	margin: 0px;
 }
